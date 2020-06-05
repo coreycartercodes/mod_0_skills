@@ -1,0 +1,9 @@
+food = "Meatball"
+is_delicious = true
+food = "Pizza"
+num2 = 5
+num7 = 10
+quotient = num7 / num2
+songs = ["Yellow Submarine", "Hey Jude", "Yesterday", "Come Together"]
+songs.shift
+puts food.length
